@@ -469,18 +469,6 @@ NavSphere/
 </details>
 
 
-## 💖 支持我们
-
-如果这个项目对你有帮助，欢迎支持我们的开发工作！
-
-<p align="center">
-  <img src="doc/a.jpg" alt="打赏码" width="300" />
-</p>
-
-<p align="center">
-  <strong>扫码支持 | 您的支持是我们持续开发的动力</strong>
-</p>
-
 ## 🤝 贡献指南
 
 我们欢迎所有形式的贡献！
